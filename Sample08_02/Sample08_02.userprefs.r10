@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameManager.cs">
+    <Files>
+      <File FileName="GameFrameworkSample.cs" Line="16" Column="1" />
+      <File FileName="GameManager.cs" Line="198" Column="43" />
+      <File FileName="..\TutoLib\GameFramework.cs" Line="105" Column="15" />
+      <File FileName="Player.cs" Line="186" Column="13" />
+      <File FileName="MyScene.cs" Line="101" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="Sample" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="resources" expanded="True" />
+          </Node>
+          <Node name="SampleLib" expanded="True" />
+          <Node name="TutoLib" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

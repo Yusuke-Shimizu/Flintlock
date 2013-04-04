@@ -1,0 +1,10 @@
+C:\Users\yk\Documents\trunk\psp\alpha\bin\TutoLib\bin\Debug\TutoLib.dll
+C:\Users\yk\Documents\trunk\psp\alpha\bin\TutoLib\bin\Debug\TutoLib.pdb
+C:\Users\yk\Documents\trunk\psp\alpha\bin\TutoLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yk\Documents\trunk\psp\alpha\bin\TutoLib\obj\Debug\TutoLib.dll
+C:\Users\yk\Documents\trunk\psp\alpha\bin\TutoLib\obj\Debug\TutoLib.pdb
+C:\Users\masaya-k\Documents\trunk\psp\alpha\bin\TutoLib\bin\Debug\TutoLib.dll
+C:\Users\masaya-k\Documents\trunk\psp\alpha\bin\TutoLib\bin\Debug\TutoLib.pdb
+C:\Users\masaya-k\Documents\trunk\psp\alpha\bin\TutoLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\masaya-k\Documents\trunk\psp\alpha\bin\TutoLib\obj\Debug\TutoLib.dll
+C:\Users\masaya-k\Documents\trunk\psp\alpha\bin\TutoLib\obj\Debug\TutoLib.pdb
